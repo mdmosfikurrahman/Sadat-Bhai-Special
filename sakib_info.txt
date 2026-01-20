@@ -1,0 +1,8 @@
+Name: Sakib
+Occupation: Engineer
+Age: 18
+Marital Status: Virgin
+Father of Child: 0.5
+
+
+Education: Primary
