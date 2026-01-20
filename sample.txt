@@ -1,3 +1,5 @@
 Name: Sadat
 Occupation: Engineer
 Age: 99
+Marital Status: Widowed
+Father of Child: 15
